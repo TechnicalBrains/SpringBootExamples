@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package org.edu.mgmt.sys.domain;
+
+import java.io.Serializable;
+
+/**
+ * @author 611163
+ *
+ */
+public class StudentProfile implements Serializable {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+}

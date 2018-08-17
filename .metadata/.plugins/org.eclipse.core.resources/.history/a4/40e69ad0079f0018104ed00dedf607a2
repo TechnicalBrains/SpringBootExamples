@@ -1,0 +1,9 @@
+server.port=8088
+server.servlet.context-path=/EducationMgmtSys/Services
+spring.datasource.url=jdbc:hsqldb:hsql://localhost/;write_delay=false
+spring.datasource.data-username=SA
+spring.datasource.data-password=
+spring.jpa.show-sql=true
+spring.jpa.database=hsql
+spring.jpa.database-platform=org.hibernate.dialect.HSQLDialect
+spring.jpa.generate-ddl=true

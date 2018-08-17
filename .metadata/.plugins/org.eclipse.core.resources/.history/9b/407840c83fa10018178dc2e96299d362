@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package org.edu.mgmt.sys.domain;
+
+/**
+ * @author 611163
+ *
+ */
+public class StudentProfile {
+
+}

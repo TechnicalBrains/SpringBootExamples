@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package org.edu.mgmt.sys;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+/**
+ * @author 611163
+ *
+ */
+public class StudentProfileBatch {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		String [] files = {
+							""
+		};
+		
+		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("")
+		
+	}
+	
+}

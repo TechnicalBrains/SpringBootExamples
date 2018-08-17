@@ -1,0 +1,32 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.dao.impl;
+
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.education.mgmt.sys.dao.MarksDao;
+import com.education.mgmt.sys.domain.Marks;
+
+/**
+ * @author 611163
+ *
+ */
+@Repository
+public class MarksDaoImpl implements MarksDao {
+
+	
+	
+	public MarksDaoImpl() {
+		System.out.println(" Marks DAO Impl is instantiated... ");
+	}
+	
+	@Override
+	public List<Marks> findAllMarks() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

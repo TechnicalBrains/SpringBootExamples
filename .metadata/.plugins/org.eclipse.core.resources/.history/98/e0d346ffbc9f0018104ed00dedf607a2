@@ -1,0 +1,28 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.controllers;
+
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.education.mgmt.sys.dto.StudentCareerDetails;
+
+/**
+ * @author 611163
+ *
+ */
+@RestController
+public class MarksController {
+
+	@PostMapping(path="/addStudentMarks")
+	
+	public void registerStudentMarks(@RequestBody StudentCareerDetails studentCareerDetails) {
+		
+		
+		
+	}
+	
+}

@@ -1,0 +1,93 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.util;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.education.mgmt.sys.domain.Marks;
+import com.education.mgmt.sys.dto.StudentCareerDetails;
+
+/**
+ * @author 611163
+ *
+ */
+public class StudentMarksInfo {
+
+	/*public static ConcurrentHashMap<String, List<StudentCareerDetails>> studentMarksInfo 
+											 = new ConcurrentHashMap<String, List<StudentCareerDetails>>();*/
+	public static List<Marks> studentsMarksList = new ArrayList<>();
+	
+	public static void buildStudentMarksInfo() {
+
+		
+		StudentCareerDetails studentInfo = new StudentCareerDetails();
+		studentInfo.setStudentCode("100001");
+		studentInfo.setStandard("X");
+		studentInfo.setTamil(76);
+		studentInfo.setEnglish(82);
+		studentInfo.setHindi(78);
+		studentInfo.setMaths(95);
+		studentInfo.setScience(85);
+		studentInfo.setSocial(82);
+		studentsMarksList.add(studentInfo);
+		
+		studentInfo = new StudentCareerDetails();
+		studentInfo.setStudentCode("100002");
+		studentInfo.setStandard("X");
+		studentInfo.setTamil(70);
+		studentInfo.setEnglish(80);
+		studentInfo.setHindi(81);
+		studentInfo.setMaths(100);
+		studentInfo.setScience(85);
+		studentInfo.setSocial(85);
+		studentsMarksList.add(studentInfo);
+		
+		studentInfo = new StudentCareerDetails();
+		studentInfo.setStudentCode("100003");
+		studentInfo.setStandard("X");
+		studentInfo.setTamil(70);
+		studentInfo.setEnglish(70);
+		studentInfo.setHindi(62);
+		studentInfo.setMaths(65);
+		studentInfo.setScience(60);
+		studentInfo.setSocial(72);
+		studentsMarksList.add(studentInfo);
+		
+		studentInfo = new StudentCareerDetails();
+		studentInfo.setStudentCode("100004");
+		studentInfo.setStandard("X");
+		studentInfo.setTamil(76);
+		studentInfo.setEnglish(59);
+		studentInfo.setHindi(67);
+		studentInfo.setMaths(74);
+		studentInfo.setScience(65);
+		studentInfo.setSocial(66);
+		studentsMarksList.add(studentInfo);
+		
+		studentInfo = new StudentCareerDetails();
+		studentInfo.setStudentCode("100005");
+		studentInfo.setStandard("X");
+		studentInfo.setTamil(55);
+		studentInfo.setEnglish(50);
+		studentInfo.setHindi(65);
+		studentInfo.setMaths(52);
+		studentInfo.setScience(54);
+		studentInfo.setSocial(44);
+		studentsMarksList.add(studentInfo);
+		
+		studentInfo = new StudentCareerDetails();
+		studentInfo.setStudentCode("100006");
+		studentInfo.setStandard("X");
+		studentInfo.setTamil(60);
+		studentInfo.setEnglish(50);
+		studentInfo.setHindi(52);
+		studentInfo.setMaths(55);
+		studentInfo.setScience(60);
+		studentInfo.setSocial(60);
+		studentsMarksList.add(studentInfo);
+		
+	}
+	
+}

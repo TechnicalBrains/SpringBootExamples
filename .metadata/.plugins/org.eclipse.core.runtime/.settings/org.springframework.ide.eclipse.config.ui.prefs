@@ -1,0 +1,7 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringBatchExamples/src/main/resources/applicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringBatchExamples/src/main/resources/batch/config/context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringBatchExamples/src/main/resources/batch/config/jobs/student-profile-batch.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringBatchExamples/src/main/resources/batch/config/student-profile-batch.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/SpringBatchExamples/src/main/resources/batch/jobs/student-profile-batch.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1
+stsMarkOccurrences=true

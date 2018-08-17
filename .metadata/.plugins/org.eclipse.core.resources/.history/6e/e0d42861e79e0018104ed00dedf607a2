@@ -1,0 +1,15 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.dao;
+
+import org.springframework.stereotype.Repository;
+
+/**
+ * @author 611163
+ *
+ */
+
+public class MarksRepository {
+
+}

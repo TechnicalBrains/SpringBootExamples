@@ -1,0 +1,25 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.functionalInterface;
+
+import java.util.List;
+
+import com.education.mgmt.sys.domain.Marks;
+import com.education.mgmt.sys.dto.SearchStudentDetailsDTO;
+import com.education.mgmt.sys.dto.StudentCareerDetails;
+
+/**
+ * @author 611163
+ *
+ */
+@FunctionalInterface
+public interface GradeDetailsInfo {
+
+	/**
+	 * @param marksInfo
+	 * @return
+	 */
+	public List<SearchStudentDetailsDTO> calcuateStudentsGrade(List<Marks> marksInfo);
+	
+}

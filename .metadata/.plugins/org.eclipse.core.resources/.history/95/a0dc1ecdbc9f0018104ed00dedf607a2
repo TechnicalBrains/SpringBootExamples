@@ -1,0 +1,17 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+/**
+ * @author 611163
+ *
+ */
+@RestController
+public class MarksController {
+
+	
+	
+}

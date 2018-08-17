@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.batch.core.repository.support.JobRepositoryFactoryBean"/>
+<fullyQualifiedTypeName name="org.springframework.batch.support.transaction.ResourcelessTransactionManager"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.launch.JobLauncher"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.Job"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.JobParameters"/>
+<fullyQualifiedTypeName name="javax.batch.runtime.JobExecution"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="org.springframework.batch.core.JobExecution"/>
+<fullyQualifiedTypeName name="com.education.mgmt.sys.domain.Marks"/>
+<fullyQualifiedTypeName name="com.education.mgmt.sys.dto.StudentCareerDetails"/>
+<fullyQualifiedTypeName name="com.education.mgmt.sys.functionalInterface.GradeDetailsInfo"/>
+</qualifiedTypeNameHistroy>

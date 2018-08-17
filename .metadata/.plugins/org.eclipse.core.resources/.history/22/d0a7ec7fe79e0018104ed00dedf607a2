@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.dao;
+
+/**
+ * @author 611163
+ *
+ */
+
+public class MarksRepository {
+
+}

@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.service.impl;
+
+import com.education.mgmt.sys.dto.StudentCareerDetails;
+import com.education.mgmt.sys.service.MarksService;
+
+/**
+ * @author 611163
+ *
+ */
+public class MarksServiceImpl implements MarksService {
+
+	@Override
+	public void saveMarks(StudentCareerDetails studentCareerDetails) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

@@ -1,0 +1,35 @@
+/**
+ * 
+ */
+package org.edu.mgmt.sys;
+
+import org.springframework.batch.core.Job;
+import org.springframework.batch.core.launch.JobLauncher;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+/**
+ * @author 611163
+ *
+ */
+public class StudentProfileBatch {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		
+		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("batch/config/context.xml");
+		
+		JobLauncher jobLauncher = (JobLauncher) applicationContext.getBean("jobLauncher");
+		Job job = 
+		try {
+		} catch() {
+			
+		}
+		
+		
+	}
+	
+}

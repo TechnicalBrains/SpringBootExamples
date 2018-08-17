@@ -1,0 +1,10 @@
+1533802465738	Rename package 'com.example.EducationMgmtSys'
+1533805046318	Rename local variable 'register'
+1533805421046	Rename type 'SearchDTO'
+1533805490546	Rename type 'Marks'
+1533815563190	Move compilation unit
+1533815568453	Move compilation unit
+1533815578299	Rename type 'MarksDTO'
+1533816128142	Move compilation unit
+1533817959172	Move compilation unit
+1533826608859	Rename method 'searchStudentInfoByStandard'

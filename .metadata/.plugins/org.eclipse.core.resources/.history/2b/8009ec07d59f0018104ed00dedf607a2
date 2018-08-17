@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.service;
+
+/**
+ * @author 611163
+ *
+ */
+public interface MarksService {
+
+}

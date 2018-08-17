@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.dao.impl;
+
+import com.education.mgmt.sys.dao.MarksDao;
+
+/**
+ * @author 611163
+ *
+ */
+public class MarksDaoImpl implements MarksDao {
+
+}

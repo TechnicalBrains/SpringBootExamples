@@ -1,0 +1,23 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.domain;
+
+import java.io.Serializable;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+/**
+ * @author 611163
+ *
+ */
+@Entity
+@Table(name="student_details")
+public class StudentDetails implements Serializable {
+
+	private static final long serialVersionUID = 1L;
+
+	
+	
+}

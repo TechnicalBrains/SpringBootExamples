@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package com.education.mgmt.sys.domain;
+
+/**
+ * @author 611163
+ *
+ */
+public class StudentDetails {
+
+}
